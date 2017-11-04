@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 4.1.1.1 
+
+Case Information: 
+Acquired using: ADI4.1.1.1
+Case Number: 001
+Evidence Number: 001
+Unique description: FAST Forensics Workshop Drive
+Examiner: Kyle Tejada, Director of Forensics
+Notes: Cal Poly FAST Winter 2017
+
+--------------------------------------------------------------
+
+Information for C:\Users\kart5\Desktop\ForensicsWorkshopImage:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 489
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 7,866,368
+[Physical Drive Information]
+ Drive Model: General USB Flash Disk USB Device
+ Drive Serial Number: 1043000000001880
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 3841 MB
+ Sector count:    7866368
+[Computed Hashes]
+ MD5 checksum:    a89bd68791f0e4da088dc44225e50bd9
+ SHA1 checksum:   622d11e89efa5170454e7ba041973e2e18fc2a01
+
+Image Information:
+ Acquisition started:   Sat Nov  4 03:44:18 2017
+ Acquisition finished:  Sat Nov  4 03:49:04 2017
+ Segment list:
+  C:\Users\kart5\Desktop\ForensicsWorkshopImage.001
+
+Image Verification Results:
+ Verification started:  Sat Nov  4 03:49:04 2017
+ Verification finished: Sat Nov  4 03:49:17 2017
+ MD5 checksum:    a89bd68791f0e4da088dc44225e50bd9 : verified
+ SHA1 checksum:   622d11e89efa5170454e7ba041973e2e18fc2a01 : verified
