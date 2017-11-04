@@ -1,0 +1,81 @@
+1. 	Video files at F:\Users\BOBSMITH\Desktop\Backup FIles\Stuff
+	Batman Beyond
+	Gundam 8th MS Team
+	Scott Pilgrim vs the World
+	The Godfather (Part 1)
+	ADDED
+	
+2. 	Rick Astley 		F:\Users\BOBSMITH\Documents\My Pictures\rick.roll (JPG)
+	Professor Snape		F:\Users\BOBSMITH\Pictures\DarkArts.jpg			TOBE DELETED
+	Error Message		F:\Users\BOBSMITH\Pictures\USER.error		(It's a PNG)
+	3 different nudes 	
+		F:\Users\BOBSMITH\Documents\My Pictures\ReverseNudes1.png (it's actually encoded as a jpg)
+		F:\Users\BOBSMITH\Desktop\Pictures\DefinatelyNot.mov (it's actually encoded as a jpg)
+		F:\Users\BOBSMITH\Desktop\Pictures\WaitDidntIDeleteThis.jpg	TOBE Deleted
+		
+	Woman at podium: SORAYA M. COLEY, Cal Poly Pomona President
+		F:\Users\BOBSMITH\Documents\My Pictures\17Fall-Conf-Coley5.jpg 
+	Man in Suit with glasses: Agent Smith from The Matrix played by Hugo Weaving
+		F:\Users\BOBSMITH\AppData\The Matrix\Revelation.doc		JPG		TOBE deleted
+		F:\Users\BOBSMITH\AppData\The Matrix\Agent.doc			JPG
+	Guys in White: Guys in White from the series Danny Phantom (literally are the guys in white)
+		F:\Users\BOBSMITH\Documents\My Pictures\GuysInWhite.png
+	
+	ADDED
+	
+3. 	Owner is Bob Smith, not Kyle Tejada (those are files I forgot to change) 
+	Resume at F:\Users\BOBSMITH\Documents\Resume Software Development.docx
+	Listed address and phone number is for Twin Towers prison in LA
+	Emails at	bs@hotmail.com		zak@yfj7vqiy.net
+		F:\Program Files\Windows Mail\en-US\1483632343.26043_945.txt
+		F:\Program Files\Windows Mail\en-US\1483632342.26043_131.txt
+		
+		
+4. 	612 E Boulevard Ave, Bismarck, ND (58501, not in email)
+	North Dakota Heritage Center and State Museum
+From: theK1Dnapp3R@aol.com
+To: info@K1Dnapp3Rn3tw0Rk.com
+	
+	F:\Users\BOBSMITH\Documents\Spam\1483632862.2991_15837.txt <--
+	F:\Users\BOBSMITH\Documents\Spam\1483632866.2991_18443.txt
+	
+	F:\Users\BOBSMITH\Documents\Spam\1483632847.2991_5219.txt
+	Has a Lat/Long coordinate: 46.376910, -102.320464
+	resolves to Mott, ND
+	513 Illinois Ave according to Google Maps
+	
+	
+5. 	It was a flash drive I got from Caltech back in 2012. It has information about programs for new students.
+	I got it because I was a new student.
+	ADDED
+	
+	
+
+Hints (hidden sixth challenge):
+There is one hint for each challenge. There are located here with most encoded in some way.
+
+1. 	F:\Program Files\Notepad++\plugins\disabled\NothingToSeeHere.txt
+
+	Search by extension, check file names
+	Otherwise export them and watch them to check.
+	Title sequence or credits should have title.
+	
+2. 	F:\Users\BOBSMITH\Desktop\Pictures\Hint2.jpg
+	It's a picture
+	Says to check google resverse image search.
+	
+3. 	F:\Program Files\Windows Mail\en-US\1483632844.2991_2935.txt
+	To Find search for <H I N T>
+	Written in morse Code
+	Reccommends finding the name in the documents (.doc), especially a resume
+	then maybe search for his email
+	
+4. 	F:\Users\BOBSMITH\Documents\New Microsoft Word Document.docx
+	Encoded to base64, use https://www.base64decode.org/ to decode
+	Tells them that it's in North Dakota
+	
+	
+5. 	F:\Windows.old\Previous Files\Sustainability\06540310.txt
+	Written in L33T
+	
+	The previous files are the oldest on the drive.
