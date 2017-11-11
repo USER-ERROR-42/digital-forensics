@@ -1,0 +1,71 @@
+
+This image is intented to service as an introduction to digital forensics and image analysis. 
+You can use any image analysis software, such as FTK or Encase, but this guide goes over Autopsy
+https://www.sleuthkit.org/autopsy/
+Download and install the windows version of Autopsy 
+Create a new case and then add this image as a data source.
+Autopsy will begin analysizing the image, this will take a while.
+When it reaches about 40%, most of the files should be processed and you can begin these tasks.
+
+
+This image simulates a windows device with a basic file structure and thousands of files.
+
+It contains five challenges.
+
+1. 	The owner of the drive has been known to pirate videos. What pirated movies/series are on this device?
+	[search by files type for videos]
+	(Easy)
+
+2. 	Image scavenger hunt. Find Rick Astley, Professor Snape, an Error Message, 3 different nudes, 
+	a woman in a green at a podium, a man in a suit with glasses, and the guys in white.
+	Identify the people in the last three images.
+	[search by file type for images or think where images might appear in a Windows file structure]
+	[several files were deleted and/or have the wrong extension, but autopsy should still find them]
+	(Fairly Easy)
+
+3. 	Identify the owner of this drive. His name probably appears in some files. 
+	Once you have his name identify his email address and as much personal information as possible.
+	[The owner's name can be found in several places, but his personal info is probably in a document or something]
+	(Intermediate)
+
+4. 	A girl has been kidnapped, and her location is currently unknown. You're only hope of finding her 
+	is searching through thousands of the kidnapper's emails for something that's formatted like an address. 
+	But have no fear, regular expressions are here. Um... You do know how to use regex right?
+	Inspired by XKCD #208.
+	[Autopsy uses grep syntax, an address might be in this format: 123 State St. Compton, CA 12345]
+	[the best thing to look regex is probably the city comma state code zip: city, ST 12345]
+	(Advanced)
+
+5. 	And finally as a meta challenge, find out what this drive's previous purpose was. 
+	I got this drive a long while ago. Tell me where I got it from, what was on it, and why I got it. 
+	[Hint: I got that drive several years ago]
+	(Intermediate)
+	
+6.	There are several hints about how to solve the challenges, but they might be a little unreadable.
+	The hidden sixth challenge is to find and decode all the hints. Good luck.
+	[searching for hints might reveal something]
+	(advanced)
+	
+Please don't cheat, but in case you're stumped
+Answers available at https://github.com/USER-ERROR-42/digital-forensics/blob/master/Answers.txt
+
+Some advice, do not try to look through all the files manually, especially the txt files.
+Several thousand spam email messages from the SPAM Archive <http://untroubled.org/spam/> were used as filler.
+
+Made for the California State Polytechnic University FAST club for Winter 2017.
+
+CAL POLY FAST is the official Cal Poly Pomona student chapter of the High Technology Crime 
+Investigation Association. We aim to expose students to Digital Forensics, Cyber Crime, and 
+Cyber Security through knowledge development, hands-on workshops, and real world experiences.
+CAL POLY FAST seeks to partner with outside organizations to gain donations and organize 
+fundraising events to fund our annual operating budget. CAL POLY FAST seeks to hold events 
+and activities for the purposes of studying Digital Forensics, Cyber Crime, and Cyber Security. 
+Our goal is to promote the readiness of soon to be graduates while providing value to Cal Poly 
+Pomona and ultimately to the industries we are engaged in.
+
+
+Created 11/03/17 
+
+Here's to regular expressions,
+Kyle Tejada,
+Director of Forensics, CAL POLY FAST 
